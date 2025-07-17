@@ -791,3 +791,12 @@ Started STM32CubeMX for final c-code generation
 2025-07-17 09:16:24,321 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-07-17 09:16:24,321 [INFO] ConfigFileManager:2477 - mx.scratch is deleted!
 2025-07-17 09:16:24,321 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-07-17 09:16:24,321 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 979mS.
 2025-07-17 09:16:25,744 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-07-17 09:16:25,744 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1422mS.
+2025-07-17 09:16:26,691 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-07-17 09:16:26,691 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 939mS.
+2025-07-17 09:16:26,704 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-07-17 09:16:26,704 [INFO] MainFileManager:651 - Exiting application...
+2025-07-17 09:16:27,008 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-07-17 09:16:27,007 [INFO] ServerAccessManage:359 - Download File 
+2025-07-17 09:16:27,013 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-07-17 09:16:27,012 [INFO] LoadUrlFilesThread:173 - End of LoadServerUrlFiles without Thread
+2025-07-17 09:16:27,013 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-07-17 09:16:27,013 [INFO] DbMcusAds:47 - JSON generation date=Tue Jul 08 16:14:23 GMT+08:00 2025 (1751962463562)
+2025-07-17 09:16:27,084 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-07-17 09:16:27,084 [INFO] ServerAccessManage:359 - Download File 
+2025-07-17 09:16:27,391 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-07-17 09:16:27,391 [INFO] LoadUrlFilesThread:173 - End of LoadServerUrlFiles without Thread
+2025-07-17 09:16:27,392 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-07-17 09:16:27,391 [INFO] MainFileManager:701 - Refresh advertisement image is successful
+2025-07-17 09:18:04,873 DEBUG [IOCDialogController.lambda$onClose$8] IOCGenerationDialog exists with return code 1
